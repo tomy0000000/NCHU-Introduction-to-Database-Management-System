@@ -1,4 +1,4 @@
-# 1082 3360 大數據分析與應用 (Analysis and Application of Big Data)
+# 1082 3360 資料庫管理系統導論 (Analysis and Application of Big Data)
 ## Homework
 
 | #    | Title           |
